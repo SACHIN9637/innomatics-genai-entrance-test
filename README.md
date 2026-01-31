@@ -54,9 +54,33 @@ All Multiple Choice Questions (MCQs) and Numerical Questions were answered **str
 
 
 ## 📁 Project Structure
+```
 ├── orders.csv
 ├── users.json
 ├── restaurants.sql
 ├── final_food_delivery_dataset.csv
 ├── Food_Delivery_Hackathon.ipynb
 └── README.md
+```
+
+
+---
+
+## ✅ Key Highlights
+- Real-world data handling using multiple formats
+- Clean and structured data merging
+- Insightful analytical queries
+- Hackathon-ready, reproducible workflow
+
+---
+
+## 🧑‍💻 Author
+**Sachin Ganesh Jadhav**  
+Final Year B.E. Computer Engineering Student  
+MIT Academy of Engineering (MITAOE), Pune  
+
+---
+
+## 📌 Note
+This repository is created solely for the purpose of the **Innomatics Research Labs Advanced GenAI Internship Entrance Test**.
+
